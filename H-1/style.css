@@ -1,31 +1,31 @@
-body{
+body {
     margin: 0;
     padding: 0;
     background-color: rgb(255, 255, 255);
-    box-sizing: border-box;
-    border: none;
-    overflow-x: hidden;
+    box-sizing: border-box ;
+    border: none ;
+    overflow-x: hidden ;
 }
-.Cajas{
+.Cajas {
     position: absolute;
     display: block;
     line-height: 100px;
     text-align: center;
-    color: white;
+    color: rgb(219, 221, 209);
     padding: 0;
     border: 0;
     margin: 0 none;
 }
-.Caja1{
+.Caja1 {
     position: relative;
-    background-color: rgb(8, 146, 31);
+    background-color: rgb(86, 187, 202);
     padding: 20px;
     width: 100vw;
     height: 150px;
     margin: 0 none;
     border: 0 none;
 }
-.Caja2{
+.Caja2 {
     position: relative;
     background-color: rgb(160, 20, 85);
     padding: 20px;
@@ -34,7 +34,7 @@ body{
     margin: 0 none;
     border: 0 none;
 }
-.Caja3{
+.Caja3 {
     position: relative;
     background-color: rgb(160, 20, 85);
     width: 90%;
@@ -44,7 +44,7 @@ body{
     left: 20%;
     margin-left: 1% ;
 }
-.Caja4{
+.Caja4 {
     position: relative;
     background-color: rgb(160, 20, 85);
     width: 90%;
@@ -55,7 +55,7 @@ body{
     margin-left: 1% ;
     
 }
-.Caja5{
+.Caja5 {
     position: relative;
     background-color: rgb(160, 20, 85);
     width: 90%;
@@ -65,7 +65,7 @@ body{
     left: 20%;
     margin-left: 1% ;
 }
-.Caja6{
+.Caja6 {
     position: relative;
     background-color: rgb(160, 20, 85);
     width: 90%;
@@ -75,7 +75,7 @@ body{
     left: 20%;
     margin-left: 1% ;
 }
-.Caja7{
+.Caja7 {
     position: relative;
     background-color: rgb(160, 20, 85);
     padding: 20px;
