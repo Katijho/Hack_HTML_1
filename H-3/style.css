@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     padding: 0;
     background-color: rgb(255, 255, 255);
@@ -6,7 +6,7 @@ body{
     border: none;
     overflow-x: hidden;
 }
- .cajas{
+ .cajas {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,62 +18,68 @@ body{
     border: 0;
     margin: 0 none;
 }
-.caja1{
-    background-color: rgb(235, 174, 95);
+.caja1 {
+    background-color: rgb(95, 207, 235);
     padding: 20px;
     width: 100vw;
-    height: 150px;
+    height: 120px;
     margin: 0 none;
     border: 0 none;
 }
-.caja2{
-    background-color: rgb(8, 146, 31);
+.caja2 {
+    background-color: rgb(163, 3, 56);
     padding: 20px;
     width: 100vw;
-    height: 200px;
+    height: 250px;
     margin: 0 none;
     border: 0 none;
 }
-.doble{
+.caja3 {
+    background-color: rgb(163, 3, 56);
+    padding: 32px; 
+    width: 75%;
+    margin: 1%; 
+}
+.doble {
     display: flex;
     flex-direction: row;
     width: 81%;
 }
-.caja3{
-    background-color: red;
+.caja4 { 
+    background-color: rgb(163, 3, 56);
     padding: 20px; 
     width: 70%;
     margin: 1%;
 }
-.caja4{
-    background-color: red;
+.caja5 {
+    background-color: rgb(163, 3, 56);
     padding: 20px; 
     width: 70%;
     margin: 1%;
 }
-.caja5{
-    background-color: red;
-    padding: 20px; 
+.caja6 {
+    background-color: rgb(163, 3, 56);
+    padding: 32px; 
     width: 75%;
     margin: 1%;
 }
-.caja6{
-    background-color: red;
+.caja7 {
+    background-color: rgb(163, 3, 56);
     padding: 20px; 
     width: 70%;
     margin: 1%;
 }
-.caja7{
-    background-color: red;
+.caja8 {
+    background-color: rgb(163, 3, 56);
     padding: 20px; 
     width: 70%;
     margin: 1%;
 }
-.caja8{
-    background-color: rgb(8, 146, 31);
+.caja9 {
+    background-color: rgb(163, 3, 56);
     padding: 20px;
     width: 100vw;
-    height: 50px;
+    height: 75px;
     margin: 0 none;
     border: 0 none;
 }
